@@ -1,0 +1,52 @@
+{ 
+    "name": "ConciseData", 
+    "dataColors": [
+        "#61A2CF", 
+        "#F1CB33", 
+        "#F2856A", 
+        "#70AD47", 
+        "#3A6E8F", 
+        "#A5A5A5", 
+        "#008CEE", 
+        "#0B31A5", 
+        "#8BC7F7", 
+        "#009FEF", 
+        "#0078ED", 
+        "#0050EB"],
+    "background":"#FFFFFF",
+        "backgroundLight": "#F3F2F1",
+        "backgroundNeutral": "#C8C6C4",
+    "foreground": "#000000",
+        "foregroundNeutralSecondary": "#605E5C",
+        "foregroundNeutralTertiary": "#B3B0AD",
+    "tableAccent": "#61A2CF",
+    "good": "#1AAB40",
+    "neutral": "#D9B300",
+    "bad": "#D64554",
+    "maximum": "#118DFF",
+    "center": "#D9B300",
+    "minimum": "#DEEFFF",
+    "null": "#FF7F48",
+    "textClasses": {
+        "callout": {
+            "fontSize": 45,
+            "fontFace": "Arial",
+            "color": "#252423"
+        },
+        "title": {
+            "fontSize": 12,
+            "fontFace": "Arial",
+            "color": "#252423"
+        },
+        "header": {
+            "fontSize": 12,
+            "fontFace": "Arial",
+            "color": "#252423"
+        },
+        "label": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "#252423"
+        }
+}   
+}
